@@ -1,11 +1,27 @@
 export const themeData = {
+  "logo": "images/logo.png",
+  "navbar": [
+    {
+      "text": "百度",
+      "link": "/"
+    },
+    {
+      "text": "CSDN",
+      "link": "/",
+      "target": "_blank"
+    },
+    {
+      "text": "豆瓣",
+      "link": "/",
+      "target": "_self",
+      "rel": ""
+    }
+  ],
   "locales": {
     "/": {
       "selectLanguageName": "English"
     }
   },
-  "navbar": [],
-  "logo": null,
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",
