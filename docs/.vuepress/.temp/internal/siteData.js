@@ -1,8 +1,8 @@
 export const siteData = {
   "base": "/",
   "lang": "en-US",
-  "title": "",
-  "description": "",
+  "title": "Hans Blog",
+  "description": "无私技术分享",
   "head": [],
   "locales": {}
 }
